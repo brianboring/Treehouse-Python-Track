@@ -4,7 +4,7 @@ The folders in this repository represent the 8 courses in the Learn Python track
 
 ## Code Example
 
-N/A
+The majority of files in this repository were written by me, with little to no cut/paste. However, Section 8_Testing are the instructors files that I downloaded and in some cases, added a bit of code to follow along on the "Testing" lesson plan. 
 
 ## Motivation
 
